@@ -8,7 +8,7 @@ Built to demonstrate advanced SQL, Python, and Power BI skills across a complex 
 
 ## Live Power BI Dashboard
 
-[View Interactive Dashboard on Power BI Service](https://app.powerbi.com/groups/71156bbb-2668-49ad-a42e-a4db44ec0e98/reports/99bf88c7-f6e4-4dd5-848d-8236e49ffb10?ctid=66e44254-c0ce-4745-9255-907eee03faf6&pbi_source=linkShare)
+[View Interactive Dashboard on Power BI Service](https://app.powerbi.com/links/Lt5ZiksYwB?ctid=66e44254-c0ce-4745-9255-907eee03faf6&pbi_source=linkShare)
 
 ---
 
