@@ -125,7 +125,7 @@ Load all CSV files into any SQL database and run nonprofit_advanced_analysis.sql
 
 ## About
 
-**Oguz Tuncel** — Data Analyst | Business Analyst | Power BI Developer
+**Oguz Tuncel** — Data Analyst | BI| Power BI Developer
 
 - LinkedIn: https://linkedin.com/in/oguztuncel
 - Email: ogzhantuncell@gmail.com
